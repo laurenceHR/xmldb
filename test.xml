@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<table>
+  <thead>
+    <tr>
+      <th>user</th>
+      <th>pass</th>
+    </tr>
+  </thead>
+  <tbody><tr><td th="user">lau</td><td th="pass">test</td></tr></tbody>
+</table>
